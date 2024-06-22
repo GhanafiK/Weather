@@ -34,4 +34,4 @@ Welcome to the Weather Forecast Web App! This project predicts the weather for t
 
 ## Contact
 Gamal Hanafi-[LinkedIn](https://www.linkedin.com/in/gamal-khalil-56993a268/)-[gmail](gamalhanafi26@gmail.com) <br />
-Project Link: ([https://ghanafik.github.io/Weather/](https://ghanafik.github.io/Weather/))
+Project Link:(https://ghanafik.github.io/Weather/)
