@@ -30,3 +30,8 @@ Welcome to the Weather Forecast Web App! This project predicts the weather for t
 ## Acknowledgments
 * Weather data provided by JSON and XML Weather API.
 * Geolocation services by Geolocation Developer API.
+
+
+## Contact
+Gamal Hanafi-[LinkedIn](https://www.linkedin.com/in/gamal-khalil-56993a268/)-[gmail](gamalhanafi26@gmail.com)
+Project Link: (https://ghanafik.github.io/Weather/)
