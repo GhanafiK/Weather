@@ -1,5 +1,5 @@
 # Weather Forecast Web App 🌦️
-Welcome to the Weather Forecast Web App! This project predicts the weather for the current moment and the next two days. It’s built using HTML, CSS, and JavaScript, and it leverages APIs to provide accurate weather information. Let’s dive into the details:
+Welcome to the Weather Forecast Web App! This project predicts the weather for the current moment and the next two days. It’s built using HTML, CSS (including Bootstrap), and JavaScript, and it leverages APIs to provide accurate weather information. Let’s dive into the details:
 
 ## Features
 1. Real-Time Weather Data
